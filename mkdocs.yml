@@ -1,0 +1,40 @@
+site_name: Dorna
+extra:
+  generator: false
+  homepage: dorna.noxian.dev
+copyright: Copyright &copy; 2023 Orna Players
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+theme:
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - navigation.sections
+  plugins:
+  - search:
+      lang: pt
+  language: pt-BR
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: brown
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: brown
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
