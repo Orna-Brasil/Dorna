@@ -1,8 +1,18 @@
+# Project information
 site_name: Dorna
 site_url: https://dorna.noxian.dev/
+site_author: Vinicius Rodrigues
+site_description: >-
+  Agregado de informações em português sobre o jogo Orna!
+
 extra:
   generator: false
+
+extra_css:
+  - theme/assets/extra-dracula.css
+
 copyright: Copyright &copy; 2023 Orna Players
+
 markdown_extensions:
   - admonition
   - pymdownx.superfences:
@@ -16,7 +26,20 @@ theme:
     - navigation.sections
     - navigation.top
     - search.suggest
-    - navigation.sections
+
+  name: material
+  custom_dir: docs/theme
+  palette:
+    scheme: dracula
+    primary: deep purple
+    accent: deep purple
+  font:
+    text: Roboto
+    code: Roboto Mono
+  
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+
   plugins:
   - social:
       enabled: true
@@ -25,20 +48,3 @@ theme:
   - search:
       lang: pt
   language: pt-BR
-  logo: assets/logo.svg
-  favicon: assets/logo.svg
-  name: material
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: brown
-      toggle:
-        icon: material/weather-night
-        name: Modo escuro
-
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: brown
-      toggle:
-        icon: material/weather-sunny
-        name: Modo claro
