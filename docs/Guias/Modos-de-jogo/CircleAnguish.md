@@ -1,3 +1,8 @@
+---
+title: Cículo da Angústia
+description: No Circle of Anguish, você pode aumentar a dificuldade de seu jogo em troca de bônus para suas recompensas.
+---
+
 # Cículo da Angústia
 
 No Circle of Anguish, você pode aumentar a dificuldade de seu jogo em troca de bônus para suas recompensas.

@@ -1,3 +1,8 @@
+---
+title: Bem vindo ao Dorna!
+description: Aqui você irá encontrar um agregado de informações em português do joga Orna.
+---
+
 # Bem vindo ao Dorna!
 
 ![orna](https://i.imgur.com/qwGk2o1.png)

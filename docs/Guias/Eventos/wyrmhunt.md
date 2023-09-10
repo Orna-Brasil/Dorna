@@ -1,3 +1,8 @@
+---
+title: Caça ao Dragão
+description: Evento de Caça ao Dragão
+---
+
 # Caça ao Dragão
 
 !!! warning "Evento encerrado"

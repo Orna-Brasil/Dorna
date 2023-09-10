@@ -1,3 +1,8 @@
+---
+title: Guilda dos Viajantes
+description: Na Traveler's Guild, você acumula passos pra receber Provas de Distância e Aspectos de Monstro.
+---
+
 # Guilda dos Viajantes
 
 Na Traveler's Guild, você acumula passos pra receber Proofs of Distance, e Monster Aspects, para então poder realizar Dungeons no estilo Pokémon, onde você controla os monstros, e não seu personagem.
@@ -32,6 +37,6 @@ Recomendo o vídeo a seguir pra melhor compreenção:
     - Traveler's Guild - Guilda dos Viajantes
     - Guild Trials - Testes da Guilda
     - Monster Aspects - Aspectos de Monstro
-    - Proof of Distance/Trial - Prova de Distancia/Teste
+    - Proof of Distance/Trial - Prova de Distância/Teste
 
 [Fonte](https://rentry.org/OrnaCoA)

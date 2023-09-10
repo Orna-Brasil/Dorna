@@ -1,3 +1,8 @@
+---
+title: Dicas gerais sobre o jogo
+description: Aqui você encontra dicas para jogar de forma saúdavel e divertida.
+---
+
 # Dicas
 
 ## Funções dentro de um grupo na masmorra

@@ -1,3 +1,8 @@
+---
+title: Caça a Relíquias
+description: Este guia tem como objetivo mostrar o que são relíquias e como dividir.
+---
+
 # Caça a Relíquias
 
 Este guia tem como objetivo mostrar o que são relíquias e como dividir

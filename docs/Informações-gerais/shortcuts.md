@@ -1,3 +1,8 @@
+---
+title: Atalhos dentro do jogo
+description: Aqui você encontra atalhos disponíveis dentro do jogo.
+---
+
 # Atalhos do jogo
 
 ### Recuperação de HP/MP de forma rápida
