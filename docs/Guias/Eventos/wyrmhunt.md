@@ -1,7 +1,7 @@
 # Caça ao Dragão
 
 !!! warning "Evento encerrado"
-    O evento ocorreu no período de Agosto/23 mas manteremos aqui para fins de historico. Talvez volte no futuro.
+    O evento ocorreu no período de agosto de 2023, mas manteremos aqui para fins de histórico. Talvez volte no futuro.
 
 Neste evento, você deve completar o codex de todos os dragões do evento, para então receber a recompensa final, o Crest of the Dragon Slayer (Emblema do Caçador de Dragões), que aumenta suas chances de Godforge, e ficará obtivel como recompensa de fim de Dungeon.
 
