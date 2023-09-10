@@ -19,6 +19,8 @@ theme:
     - navigation.sections
   plugins:
   - social:
+      enabled: true
+      cards: true
       cards_layout: default
   - search:
       lang: pt
