@@ -11,7 +11,7 @@
 
 ## Sobre o Projeto
 
-**Dorna** é um site no estilo documentação que contém informações detalhadas sobre o jogo Orna RPG GPS. Neste repositório, você encontrará dicas, informações sobre edifícios, guias, atalhos e muito mais, tudo projetado para melhorar sua experiência no mundo de Orna. 
+**Dorna** é um site no estilo documentação que contém informações detalhadas sobre o jogo Orna Geo-RPG. Neste repositório, você encontrará dicas, informações sobre edifícios, guias, atalhos e muito mais, tudo projetado para melhorar sua experiência no mundo de Orna. 
 
 ## Como Usar
 
