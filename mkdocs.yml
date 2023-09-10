@@ -26,6 +26,8 @@ theme:
     - navigation.sections
     - navigation.top
     - search.suggest
+    - navigation.tracking
+    - navigation.prune
 
   name: material
   custom_dir: docs/theme
