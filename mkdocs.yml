@@ -1,4 +1,5 @@
 site_name: Dorna
+site_url: https://dorna.noxian.dev/
 extra:
   generator: false
 copyright: Copyright &copy; 2023 Orna Players
@@ -17,6 +18,8 @@ theme:
     - search.suggest
     - navigation.sections
   plugins:
+  - social:
+      cards_layout: default
   - search:
       lang: pt
   language: pt-BR
