@@ -14,3 +14,4 @@ Orna é um RPG GPS no estilo clássico que complementa o seu mundo real. Desfrut
 - [Subreddit Oficial](https://www.reddit.com/r/OrnaRPG/) - inglês
 - [Notas de atualização](https://playorna.com/releases/) - inglês
 - [Grupo BR no Telegram](https://t.me/OrnaBrasil)
+- [Grupo BR no WhatsApp](https://chat.whatsapp.com/DxzDqrPSkmhF78ccRJuDv2)
