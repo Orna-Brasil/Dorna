@@ -46,4 +46,4 @@ Agradecemos qualquer contribuição para melhorar esta documentação. Se você 
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE.md) - consulte o arquivo LICENSE.md para obter detalhes.
+Este projeto está licenciado sob a [Licença MIT](LICENSE) - consulte o arquivo LICENSE.md para obter detalhes.
