@@ -1,7 +1,6 @@
 site_name: Dorna
 extra:
   generator: false
-  homepage: dorna.noxian.dev
 copyright: Copyright &copy; 2023 Orna Players
 markdown_extensions:
   - admonition
@@ -29,12 +28,12 @@ theme:
       scheme: default
       primary: brown
       toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
+        icon: material/weather-night
+        name: Modo escuro
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: brown
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to light mode
+        icon: material/weather-sunny
+        name: Modo claro
